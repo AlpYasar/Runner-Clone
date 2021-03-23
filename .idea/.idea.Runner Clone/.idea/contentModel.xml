@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\alpya\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\alpya\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Runner Clone.582233902.00" t="ExcludeRecursive" />
+    <e p="C:\Users\alpya\Desktop\Runner Clone" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Assets" t="Include">
+          <e p="area.compute" t="Include" />
+          <e p="Area.cs" t="Include" />
+          <e p="Editor" t="Include">
+            <e p="DrawIfPropertyDrawer.cs" t="Include" />
+          </e>
+          <e p="LowPolyWater_Pack" t="Include">
+            <e p="LowPoly Island" t="Include">
+              <e p="Credits.txt" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Editor" t="Include">
+                <e p="GeneratePlane.cs" t="Include" />
+              </e>
+              <e p="LowPolyWater.cs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="WaterShaded.shader" t="Include" />
+            </e>
+          </e>
+          <e p="Samples" t="Include">
+            <e p="Terrain Tools" t="Include">
+              <e p="0.1.0-preview" t="Include">
+                <e p="Terrain Assets" t="Include">
+                  <e p="ThirdPartyNotices.txt" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="DrawIfAttribute.cs" t="Include" />
+            <e p="ForceCollider.cs" t="Include" />
+            <e p="HalfDonat.cs" t="Include" />
+            <e p="HorizontalMovement.cs" t="Include" />
+            <e p="OppenentMovement.cs" t="Include" />
+            <e p="PlayerStats.cs" t="Include" />
+            <e p="RankingMenager.cs" t="Include" />
+            <e p="RestartNexit.cs" t="Include" />
+            <e p="RotatingPlatform.cs" t="Include" />
+            <e p="Rotator.cs" t="Include" />
+            <e p="SimpleCameraController.cs" t="Include" />
+            <e p="SimpleCharControl.cs" t="Include" />
+          </e>
+          <e p="TestProjectAssets" t="Include">
+            <e p="OpponentCharacter" t="Include">
+              <e p="NewBehaviourScript.cs" t="Include" />
+            </e>
+          </e>
+          <e p="TextMesh Pro" t="Include">
+            <e p="Fonts" t="Include">
+              <e p="LiberationSans - OFL.txt" t="Include" />
+            </e>
+            <e p="Resources" t="Include">
+              <e p="LineBreaking Following Characters.txt" t="Include" />
+              <e p="LineBreaking Leading Characters.txt" t="Include" />
+              <e p="Shaders" t="Include">
+                <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+                <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+                <e p="TMP_Bitmap.shader" t="Include" />
+                <e p="TMP_SDF Overlay.shader" t="Include" />
+                <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+                <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+                <e p="TMP_SDF-Mobile.shader" t="Include" />
+                <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+                <e p="TMP_SDF-Surface.shader" t="Include" />
+                <e p="TMP_SDF.shader" t="Include" />
+                <e p="TMP_Sprite.shader" t="Include" />
+                <e p="TMPro.cginc" t="Include" />
+                <e p="TMPro_Properties.cginc" t="Include" />
+                <e p="TMPro_Surface.cginc" t="Include" />
+              </e>
+            </e>
+            <e p="Sprites" t="Include">
+              <e p="EmojiOne Attribution.txt" t="Include" />
+            </e>
+          </e>
+          <e p="ThirdParty" t="Include">
+            <e p="Script" t="Include">
+              <e p="MousePainter.cs" t="Include" />
+              <e p="Paintable.cs" t="Include" />
+              <e p="PaintManager.cs" t="Include" />
+              <e p="Utils" t="Include">
+                <e p="Singleton.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="ExtendIslands.shader" t="Include" />
+              <e p="TexturePainter.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Finisher.cs" t="Include" />
+        <e p="HorizForce.cs" t="Include" />
+        <e p="ThirdPartyAssets" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="BrushShader.shader" t="Include" />
+            <e p="ColorPicker.shader" t="Include" />
+            <e p="CombineMetalicSmoothness.shader" t="Include" />
+            <e p="FixIlsandEdges.shader" t="Include" />
+            <e p="InputUIManager.cs" t="Include" />
+            <e p="MarkIlsands.shader" t="Include" />
+            <e p="MoveCamera.cs" t="Include" />
+            <e p="TexturePaint.cs" t="Include" />
+            <e p="TexturePaint.shader" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Runner Clone.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
